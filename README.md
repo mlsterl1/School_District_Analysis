@@ -19,6 +19,7 @@ Gather the following data using the CSV file provided  :
 	
  * Generate the School Summary 
     * Calculate student count per school
+    
     	* Bailey High School       4976
 	* Johnson High School      4761
 	* Hernandez High School    4635
@@ -51,7 +52,7 @@ Gather the following data using the CSV file provided  :
 	* Wilson High School       578.0
 	* Wright High School       583.0
     * Calculate average per school
-    	* Math - 
+    	## Math - 
 	* Bailey High School       77.048432
 	* Cabrera High School      83.061895
 	* Figueroa High School     76.711767
@@ -84,7 +85,7 @@ Gather the following data using the CSV file provided  :
 	* Wilson High School       83.989488
 	* Wright High School       83.955000
     * Calculate passing percentages per school
-    	* Math - 	
+    	 ## Math - 	
 	* Bailey High School       66.680064
 	* Cabrera High School      94.133477
 	* Figueroa High School     65.988471
@@ -132,7 +133,8 @@ Gather the following data using the CSV file provided  :
 	* Thomas High School       90.948012
 	* Wilson High School       90.582567
 	* Wright High School       90.333333
-    * Create the school sumamry DataFrame
+    * Create the school summary DataFrame
+    	![School Summary Data](perschoolDataFrame.png)
     
  * Cateorize High and Low Performing Schools 
      * Identify highest performing schools
