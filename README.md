@@ -14,8 +14,8 @@ Gather the following data using the CSV file provided  :
     * Calculate the passing percentages
         * Math - 74.98 %
         * Reading - 85.81%
-    * Create a distrcit summary DataFrame
-        * 
+    * Create a district summary DataFrame
+        *  ![School District Summary]()
 	
  * Generate the School Summary 
     * Calculate student count per school
