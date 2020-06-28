@@ -57,7 +57,12 @@ Gather the following data using the CSV file provided  :
  Replace all Thomas High School 9th grade students reading i and math scores with NaN due to irregularities in testing scores. Still use total numbers for analysis. 
  
  ## Findings 
-    
+ * After replacing the Thomas High School 9th grade reading and math scores with NaN. The follwoing was observed for the average scores and percenatges passed :
+    * The average math score went from a 78.99 to a 78.93 and the passing percentage went from a 74.98% to 73.88%
+    * The average reading score went from 81.88% to 81.55% and the passing percenatge went from 85.81% to 84.65%
+ 
+ *
+ 
     
     
     
