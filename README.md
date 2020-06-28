@@ -63,7 +63,7 @@ Gather the following data using the CSV file provided  :
     * All other variables remained constant from the previous analysis in the distrcit summary as observed below.
     	![District Summary Revised](districtSummaryrevised.png)
     * School Summary Data the revised data only impacted the data for Thomas High School on the school summary. You can observe that average math score, average reading score vary only slightly. Passing percenatge math, reading and overall are significatnly impacted passing percentages in the 90's in the original analysis dropping to 60's. 
- 	![School Summary Revised](PerSchool SummaryRevised.png)
+ 	![School Summary Revised](PerSchoolSummaryRevised.png)
 
  
     
