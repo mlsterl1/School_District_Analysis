@@ -62,7 +62,7 @@ Gather the following data using the CSV file provided  :
     * The average reading score went from 81.88% to 81.55% and the passing percenatge went from 85.81% to 84.65%
     * All other variables remained constant from the previous analysis in the distrcit summary as observed below.
     	![District Summary Revised](districtSummaryrevised.png)
-    *
+    * School Summary Data was impacted by the change 
  
 
  
