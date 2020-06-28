@@ -150,7 +150,7 @@ Gather the following data using the CSV file provided  :
 	* Hernandez
 	* Johnson
 	
- * Average math and reading scores by grade - See data 
+ * Average math and reading scores by grade - 
     * Score averages grouped by school name    
     * Create grade level DataFrames 
     * Group scores by school spending per student
@@ -158,6 +158,7 @@ Gather the following data using the CSV file provided  :
     * Categorize spending bins
     * Group by the spending binsGroup by spending ranges
     * Create a DataFrame for the scores by school spending
+    	
     
  * Group score by school size - see Data
     * Create BIns for school size
