@@ -65,10 +65,15 @@ Gather the following data using the CSV file provided  :
     * School Summary Data the revised data only impacted the data for Thomas High School on the school summary. You can observe that average math score, average reading score vary only slightly. Passing percenatge math, reading and overall are significatnly impacted passing percentages in the 90's in the original analysis dropping to 60's. 
  	![School Summary Revised](PerSchoolSummaryRevised.png)
 
- 
+    * Top five schools varied while 5 bottom schools stayed consistent. Thomas High schol was originally lsited as second and with the revised data drops off the top five.
+    	![Top Five Revised](TOPFIVErevised.png)
+    * Lower Bottom is unchanged 
+    * Schools by school spending for Thomas High School was altered with the new data. The new data set illustrates the same amount of spending for the school but reflects the new lower grades and much lower passing percentages. 
+    * The same for scores by school size the new lower schools replace the previous scores for Thomas High School while school size is unchanged. 
     
-    
-    
+    * Also the Averages for Medium size school decrease and do the averages per charter school. 
+    	![Scores by School Size Revised](SchoolSizeAveragerevised.png)
+	![Scores by School Type Revised](Sizebyschooltyperevised.png)
     
     
 
