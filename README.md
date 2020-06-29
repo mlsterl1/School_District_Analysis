@@ -71,7 +71,7 @@ Gather the following data using the CSV file provided  :
     * Schools by school spending for Thomas High School was altered with the new data. The new data set illustrates the same amount of spending for the school but reflects the new lower grades and much lower passing percentages. 
     * The same for scores by school size the new lower schools replace the previous scores for Thomas High School while school size is unchanged. 
     
-    * Also the Averages for Medium size school decrease and do the averages per charter school. 
+    * Also the Averages for Medium size school decrease as do the averages per charter school. 
     	![Scores by School Size Revised](SchoolSizeAveragerevised.png)
 	![Scores by School Type Revised](Sizebyschooltyperevised.png)
     
