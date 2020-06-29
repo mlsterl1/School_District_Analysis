@@ -57,12 +57,12 @@ Gather the following data using the CSV file provided  :
  Replace all Thomas High School 9th grade students reading and math scores with NaN due to irregularities in testing scores. Still use total numbers of students and other data for analysis. 
  
  ## Findings 
- * After replacing the Thomas High School 9th grade reading and math scores with NaN. The following was observed for the average scores and percenatges passed :
+ * After replacing the Thomas High School 9th grade reading and math scores with NaN. The following was observed for the average scores and percentages passed :
     * The average math score went from a 78.99 to a 78.93 and the passing percentage went from a 74.98% to 73.88%
-    * The average reading score went from 81.88% to 81.55% and the passing percenatge went from 85.81% to 84.65%
-    * All other variables remained constant from the previous analysis in the distrcit summary as observed below.
+    * The average reading score went from 81.88% to 81.55% and the passing percentage went from 85.81% to 84.65%
+    * All other variables remained constant from the previous analysis in the district summary as observed below.
     	![District Summary Revised](districtSummaryrevised.png)
-    * School Summary Data the revised data only impacted the data for Thomas High School on the school summary. You can observe that average math score, average reading score vary only slightly. Passing percentage math, reading and overall are significatnly impacted. Passing percentages were in the 90's in the original analysis dropping to 60'sin the revision. 
+    * School Summary Data the revised data only impacted the data for Thomas High School on the school summary. You can observe that average math score, average reading score vary only slightly. Passing percentage math, reading and overall are significantly impacted. Passing percentages were in the 90's in the original analysis dropping to 60's in the revision. 
  	![School Summary Revised](PerSchoolSummaryRevised.png)
 
     * Top five schools varied while 5 bottom schools stayed consistent. Thomas High School was originally listed as second and with the revised data drops off the top five.
