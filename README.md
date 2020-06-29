@@ -19,7 +19,7 @@ Gather the following data using the CSV file provided  :
 	
  * Generate the School Summary 
     * Calculate student count per school    
-    * Calcualte budget per student
+    * Calculate budget per student
     * Calculate average per school   	
     * Calculate passing percentages per school    	 
     * Create the school summary DataFrame
@@ -42,7 +42,7 @@ Gather the following data using the CSV file provided  :
     	![Scores by School Spending](perschoolDataFrame.png)
     	
  * Group score by school size 
-   * Create BIns for school size
+   * Create Bins for school size
    * Categorize bin sizes
    * Group by school size
    * Creat a DataFrame for the scores by school size
@@ -54,7 +54,7 @@ Gather the following data using the CSV file provided  :
     	![Scores by School Type](Scoresbyschooltype.png)
 	
  ## Challenge 
- Replace all Thomas High School 9th grade students reading i and math scores with NaN due to irregularities in testing scores. Still use total numbers for analysis. 
+ Replace all Thomas High School 9th grade students reading and math scores with NaN due to irregularities in testing scores. Still use total numbers of students and other data for analysis. 
  
  ## Findings 
  * After replacing the Thomas High School 9th grade reading and math scores with NaN. The follwoing was observed for the average scores and percenatges passed :
